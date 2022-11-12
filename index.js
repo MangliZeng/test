@@ -177,6 +177,3 @@ my_co(helloWorldGenerator()).then((data) =>{
 // commit 2
 
 // commit 1
-
-
-// commit 1
